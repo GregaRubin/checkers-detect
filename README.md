@@ -23,5 +23,5 @@ and the last element represent H1.
 5. Run the script
 
 ## Running the script
-+You can run the script with the command 'python checkersDetect.py [path_to_image]'
-+The board.json file is created inside the current working directory
++ You can run the script with the command 'python checkersDetect.py [path_to_image]'
++ The board.json file is created inside the current working directory
