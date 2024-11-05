@@ -1,10 +1,10 @@
-#Checkers Detect
+# Checkers Detect
 
 ## A Python command line script for detecting the position and type of checkers pieces in an image.
 Checkers detect uses a neural network model made with Tensorflow Keras to detect which type of the 4 checkers pieces we are dealing with (white/black man and white/black king).
 The model was trained on a dataset of around 1000 images of different board pieces. Our images were labeled using Label Studio (https://labelstud.io/) and some of them were augmented before training our nerural network model.\
 
-![predict](https://github.com/user-attachments/assets/9f3238b4-8f6b-4eab-bb14-6b962abc2dce)
+![predict](https://github.com/user-attachments/assets/48156a56-f910-47c1-93a1-ebdbf20c7a36)
 
 
 The script starts by opening up a pyplot and asks you to select the 4 corners of your checkers board.
