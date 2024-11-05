@@ -21,6 +21,6 @@ and the last element represent H1.
 3. Run 'pip install -r requirements.txt' inside the project folder
 5. Run the script
 
-##Running the script
+## Running the script
 You can run the script with the command 'python checkersDetect.py [path_to_image]'
 The board.json file is created inside the current working directory
