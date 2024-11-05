@@ -7,9 +7,6 @@ The model was trained on a dataset of around 1000 images of different board piec
 ![centers](https://github.com/user-attachments/assets/d7379237-a458-4287-bd73-924419b0d777)
 
 The script starts by opening up a pyplot and asks you to select the 4 corners of your checkers board.
-
-![centers](https://github.com/user-attachments/assets/1bd7354a-bb7e-4b5f-9fa9-7a5eb2514a00)
-
 Once the corners are select it calculates each possible position of a board piece using perspectiveTransform from openCV. Each board piece image is evaulated using the trained neural network and saved in an array if it qulifies as a board piece.
 
 ![virtual](https://github.com/user-attachments/assets/b6372e3f-ba1d-4022-b263-76d77976062d)
